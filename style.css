@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+    background: rgb(23, 111, 170);
+}
+.header_div
+{
+    background: white;
+    color: rgb(20, 82, 102);
+}
+.header_div p
+{
+    font-family: "Indie Flower", sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button
+{
+    font-family: "Indie Flower", sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer
+{
+     position: fixed;
+     color: rgb(22, 112, 49);
+     bottom: 0;
+     width: 100%;
+     font-size: 18px;
+     background-color: rgb(11, 23, 194);
+     line-height: 3;
+     text-align: center;
+     text-shadow: 5px 5px 5px rgba(51, 51, 51, 0.5);
+}
